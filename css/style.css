@@ -441,3 +441,16 @@ a{
    }
 
 }
+.item-content button{
+    border: 0px;
+    padding: 2px 20px;
+   
+}
+.item-content .buttons a:hover{
+    color: #ff305b; 
+}
+.item-content p{
+    color: #5c5a5a;
+    padding-top: 10px;
+    font-size: 14px;
+}
